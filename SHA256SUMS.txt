@@ -1,1 +1,2 @@
 a205ac6e4cafb602c8e9a4045cc09fa5bfefa9a5cb0f65c0e8a9da895e97ecc9  MouseOn-Internet-Windows-x64.zip
+507e4cbeb204f7b2882a791ce64e2d5219a163fd105f07b5f7cf77e063281fd0  MouseOn-Patch-from-0b33141.zip
